@@ -11,3 +11,4 @@ Afegida abans del títol de nivell 2.
 # Aquí venen les fotos
 [!command prompt history](https://github.com/Kaylen7/it-academy-php/blob/main/Sprint1/Git-Github/Captura-directoris-local.PNG)
 [!captura directoris local](https://github.com/Kaylen7/it-academy-php/blob/main/Sprint1/Git-Github/Captura-directoris-local.PNG)
+[!git log](Sprint1/Git-Github/git-log.PNG)
